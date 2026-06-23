@@ -1,0 +1,27 @@
+[
+  {
+    "id": "u1",
+    "name": "Alex Carter",
+    "email": "alex@acme.co",
+    "role": "employee"
+  },
+  {
+    "id": "u2",
+    "name": "Jordan Lee",
+    "email": "jordan@acme.co",
+    "role": "office_manager",
+    "managedOffice": "London"
+  },
+  {
+    "id": "u3",
+    "name": "Sam Patel",
+    "email": "sam@acme.co",
+    "role": "admin"
+  },
+  {
+    "id": "u4",
+    "name": "Riley Chen",
+    "email": "riley@acme.co",
+    "role": "employee"
+  }
+]

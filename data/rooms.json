@@ -1,0 +1,80 @@
+[
+  {
+    "id": "r1",
+    "name": "Aurora",
+    "capacity": 8,
+    "office": "London",
+    "equipment": [
+      "projector",
+      "whiteboard",
+      "video_conferencing"
+    ]
+  },
+  {
+    "id": "r2",
+    "name": "Borealis",
+    "capacity": 4,
+    "office": "London",
+    "equipment": [
+      "whiteboard"
+    ]
+  },
+  {
+    "id": "r3",
+    "name": "Cascade",
+    "capacity": 12,
+    "office": "London",
+    "equipment": [
+      "projector",
+      "video_conferencing"
+    ]
+  },
+  {
+    "id": "r4",
+    "name": "Delta",
+    "capacity": 2,
+    "office": "Berlin",
+    "equipment": [
+      "whiteboard"
+    ]
+  },
+  {
+    "id": "r5",
+    "name": "Echo",
+    "capacity": 6,
+    "office": "Berlin",
+    "equipment": [
+      "projector",
+      "whiteboard"
+    ]
+  },
+  {
+    "id": "r6",
+    "name": "Fjord",
+    "capacity": 20,
+    "office": "New York",
+    "equipment": [
+      "projector",
+      "video_conferencing"
+    ]
+  },
+  {
+    "id": "r7",
+    "name": "Glacier",
+    "capacity": 10,
+    "office": "New York",
+    "equipment": [
+      "whiteboard",
+      "video_conferencing"
+    ]
+  },
+  {
+    "id": "r8",
+    "name": "Horizon",
+    "capacity": 4,
+    "office": "Berlin",
+    "equipment": [
+      "video_conferencing"
+    ]
+  }
+]

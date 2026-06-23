@@ -1,0 +1,114 @@
+[
+  {
+    "id": "b1",
+    "roomId": "r1",
+    "userId": "u1",
+    "title": "Product sync",
+    "start": "2026-06-23T09:00:00.000Z",
+    "end": "2026-06-23T10:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 4,
+    "createdAt": "2026-06-20T23:00:00.000Z"
+  },
+  {
+    "id": "b2",
+    "roomId": "r3",
+    "userId": "u2",
+    "title": "All-hands rehearsal",
+    "start": "2026-06-23T13:00:00.000Z",
+    "end": "2026-06-23T15:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 10,
+    "createdAt": "2026-06-20T23:00:00.000Z"
+  },
+  {
+    "id": "b3",
+    "roomId": "r5",
+    "userId": "u4",
+    "title": "Design crit",
+    "start": "2026-06-24T08:00:00.000Z",
+    "end": "2026-06-24T09:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 4,
+    "createdAt": "2026-06-21T23:00:00.000Z"
+  },
+  {
+    "id": "b4",
+    "roomId": "r6",
+    "userId": "u3",
+    "title": "Board meeting",
+    "start": "2026-06-25T12:00:00.000Z",
+    "end": "2026-06-25T14:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 15,
+    "createdAt": "2026-06-22T23:00:00.000Z"
+  },
+  {
+    "id": "b5",
+    "roomId": "r2",
+    "userId": "u1",
+    "title": "1:1 with manager",
+    "start": "2026-06-24T14:00:00.000Z",
+    "end": "2026-06-24T15:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 4,
+    "createdAt": "2026-06-21T23:00:00.000Z"
+  },
+  {
+    "id": "b6",
+    "roomId": "r7",
+    "userId": "u2",
+    "title": "Client demo",
+    "start": "2026-06-26T10:00:00.000Z",
+    "end": "2026-06-26T11:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 8,
+    "createdAt": "2026-06-23T23:00:00.000Z"
+  },
+  {
+    "id": "b7",
+    "roomId": "r4",
+    "userId": "u4",
+    "title": "Quick chat",
+    "start": "2026-06-22T09:00:00.000Z",
+    "end": "2026-06-22T10:00:00.000Z",
+    "status": "cancelled",
+    "attendees": 4,
+    "createdAt": "2026-06-19T23:00:00.000Z",
+    "cancelledAt": "2026-06-20T23:00:00.000Z"
+  },
+  {
+    "id": "b8",
+    "roomId": "r1",
+    "userId": "u3",
+    "title": "Engineering planning",
+    "start": "2026-06-21T08:00:00.000Z",
+    "end": "2026-06-21T10:00:00.000Z",
+    "status": "cancelled",
+    "attendees": 6,
+    "createdAt": "2026-06-18T23:00:00.000Z",
+    "cancelledAt": "2026-06-19T23:00:00.000Z"
+  },
+  {
+    "id": "b9",
+    "roomId": "r8",
+    "userId": "u1",
+    "title": "Vendor call",
+    "start": "2026-06-27T13:00:00.000Z",
+    "end": "2026-06-27T14:00:00.000Z",
+    "status": "confirmed",
+    "attendees": 4,
+    "createdAt": "2026-06-24T23:00:00.000Z"
+  },
+  {
+    "id": "b10",
+    "roomId": "r2",
+    "userId": "u1",
+    "title": "Strategy session",
+    "start": "2026-06-24T09:00:00.000Z",
+    "end": "2026-06-24T10:00:00.000Z",
+    "status": "rejected",
+    "attendees": 4,
+    "createdAt": "2026-06-21T23:00:00.000Z"
+  }
+]
